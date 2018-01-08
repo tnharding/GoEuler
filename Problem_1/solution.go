@@ -36,7 +36,7 @@ func Solution2() int {
 	return total
 }
 
-//sumDivisibleBy first instance
+//sumDivisibleBy first instances
 func sumDivisibleBy(n, target int) int {
 	var total int
 
