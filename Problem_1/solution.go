@@ -53,6 +53,7 @@ func Solution3() int {
 	return total
 }
 
+//sumDivisibleBy2 second instance
 func sumDivisibleBy2(n, target int) int {
 	p := target / n
 	return n * (p * (p + 1)) / 2
